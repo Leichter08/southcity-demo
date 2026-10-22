@@ -48,6 +48,10 @@ Endpoint pendukung:
 - `GET /docs` menyediakan dokumentasi interaktif FastAPI.
 
 
+## Demo video
+
+- Demo aplikasi: https://drive.google.com/file/d/1Y1RD5SNm08geNLYbVgFOKUGGlv_wSkd4/view?usp=sharing
+
 ## Menjalankan aplikasi secara lokal (Windows PowerShell)
 
 ### Prasyarat
